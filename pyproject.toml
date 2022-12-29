@@ -3,7 +3,7 @@ requires      = ["setuptools>=61.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "realpython-reader"
+name = "codeprocessor-reader"
 version = "1.1.1"
 description = "Read the latest Real Python tutorials"
 readme = "README.md"
@@ -26,7 +26,7 @@ requires-python = ">=3.7"
     realpython = "reader.__main__:main"
 
     [project.urls]
-    repository    = "https://github.com/realpython/reader"
+    repository    = "https://github.com/CodeProcessor/reader"
     documentation = "https://realpython.com/pypi-publish-python-package/"
 
 
