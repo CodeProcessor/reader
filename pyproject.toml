@@ -23,7 +23,7 @@ requires-python = ">=3.7"
     dev   = ["black", "bumpver", "isort", "mypy", "pytest"]
 
     [project.scripts]
-    realpython = "reader.__main__:main"
+    cppython = "reader.__main__:main"
 
     [project.urls]
     repository    = "https://github.com/CodeProcessor/reader"
