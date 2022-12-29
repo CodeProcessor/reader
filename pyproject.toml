@@ -5,9 +5,9 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "codeprocessor-reader"
 version = "1.2.0"
-description = "Read the latest Real Python tutorials"
+description = "This is a test PyPI package"
 readme = "README.md"
-authors = [{ name = "Real Python", email = "info@realpython.com" }]
+authors = [{ name = "Dulan Jayasuriya", email = "dulanjayasuriya@gmail.com" }]
 license = { file = "LICENSE" }
 classifiers = [
     "License :: OSI Approved :: MIT License",
